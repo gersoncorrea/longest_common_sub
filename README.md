@@ -1,10 +1,10 @@
-# longest_common_sub
+# Longest Common Substring
 Dynamic Programming solution of LCS problem
 
-- How to run
+## How to run
 ```
-javac LongestCommonSubsequence.java
-```
-```
-java LongestCommonSubsequence
+$ javac LongestCommonSubsequence.java
+
+$ java LongestCommonSubsequence
+
 ```
